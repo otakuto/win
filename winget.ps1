@@ -11,5 +11,6 @@ winget install --silent -e --id Google.ChromeRemoteDesktop
 winget install --silent -e --id WiresharkFoundation.Wireshark
 winget install --silent -e --id Discord.Discord
 winget install --silent -e --id Volta.Volta
+winget install --silent -e --id Ultimaker.Cura
 
 # & "${env:ProgramFiles(x86)}/Microsoft/Edge/Application/*/Installer/setup.exe" --uninstall --force-uninstall --system-level
